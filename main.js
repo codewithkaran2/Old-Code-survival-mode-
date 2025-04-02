@@ -1,4 +1,4 @@
-// main.js
+// main.js (2 April,2025)
 
 // Utility function to load a script dynamically with error handling.
 function loadScript(url, callback) {
